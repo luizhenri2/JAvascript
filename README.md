@@ -1,2 +1,2 @@
-# JAvascript
-nosso projeto do 3 trimenstre 
+# JAvascrit
+trabalho 3 trimestre
